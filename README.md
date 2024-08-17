@@ -23,5 +23,5 @@ El efecto parallax es una técnica  de diseño web en la cual usamos diferentes
 
 | Tecnologías|  |
 | ----------- | ----------- |
-| ![](../PRY-EFECTO-PARALAX/IMG/css.png) | CSS3 |
-| ![](../PRY-EFECTO-PARALAX/IMG/html.png) | HTML5|
+| ![](IMG/css.png) | CSS3 |
+| ![](IMG/html.png) | HTML5|
